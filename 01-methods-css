@@ -1,0 +1,3 @@
+<div style = "background-color: red; color:white; font-weight: bold; text-align: center; font-family: calibri; font-size: 32px;" >Style me via the external method!</div>
+<p style = "background-color: green; color: white; font-weight: bold; text-align: left; font-family: calibri; font-size: 18px ">I would like to be styled with the internal method, please.</p>
+<p><button style = "background-color: orange; color:black; font-weight: bold; font-size: 18px">Inline Method</button></p>
